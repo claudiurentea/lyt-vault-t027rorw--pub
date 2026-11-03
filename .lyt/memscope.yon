@@ -1,0 +1,12 @@
+@DOC ver=2.0 | id=54d44d7c-a308-82ca-aea9-87788777c658 | title="t027rorw/pub — default memscope" | domain=yai.lyt@1.0 | kind=cfg | profile=agent
+
+@MEMSCOPE rid=54d44d7c-a308-82ca-aea9-87788777c658
+  | scope_level=vault
+  | read_roles=["github:claudiurentea"]
+  | write_roles=["github:claudiurentea"]
+  | admin_roles=["github:claudiurentea"]
+  | default_view=private
+
+@META key=allow_expand_to_project | value=false
+@META key=allow_expand_to_workspace | value=false
+@META key=applies_to_vault | value=54d44d7c-a308-8333-841d-ca385d2caffd

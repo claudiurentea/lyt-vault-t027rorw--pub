@@ -1,0 +1,18 @@
+@DOC ver=2.0 | id=54d44d7c-a308-8333-841d-ca385d2caffd | title="t027rorw/pub" | domain=yai.lyt@1.0 | kind=cfg | profile=agent
+
+@VAULT rid=54d44d7c-a308-8333-841d-ca385d2caffd
+  | name="t027rorw/pub"
+  | memscope=54d44d7c-a308-82ca-aea9-87788777c658
+  | created_at:ts=2026-11-03T12:21:28.800Z
+  | version="0.1"
+
+@VAULT_HOME_MESH vault_rid=vault:54d44d7c-a308-8333-841d-ca385d2caffd
+  | mesh_rid=mesh:24f5bb0c-6dd0-8595-9565-274de4391c85
+  | mesh_name="t027rorw"
+  | assigned_at:ts=2026-11-03T12:21:28.800Z
+
+@META key=primary_owner | value=github:claudiurentea
+@META key=lifecycle | value=active
+@META key=agent_template_version | value=3
+@META key=template_version | value=3
+@META key=contract_version | value=1
